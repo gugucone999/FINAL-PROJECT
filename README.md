@@ -8,6 +8,6 @@
 # 🦖TEAM MEMBER
 
 |![백승준](./img/porori.jpg)|![김호현](./img/neoburi.jpg)|![이정훈](./img/bono.jpeg)|![은효경](./img/drO.jpg)|
-|[백승준]|[김호현]|[이정훈](https://github.com/gugucone999)|[은효경](https://github.com/MintBANG)|
 |:---:|:---:|:---:|:---:|
+|[백승준]|[김호현]|[이정훈](https://github.com/gugucone999)|[은효경](https://github.com/MintBANG)|
 [팀장|팀원|팀원|팀원|
