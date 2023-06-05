@@ -1,6 +1,6 @@
 # 🕊️TEAM BORAM🕊️
 <div align="center">
- <img src="https://github.com/gugucone999/finalproject/blob/312c5d311e8d429f2d8d275601341298ccad691e/img/bonobono.jpeg">
+ <img src="https://github.com/gugucone999/finalproject/blob/03da6ba60ef5249e4c5e6f7183fc0868d58fa076/img/bo.png">
  <br>
 <b>💫단계별 인프라 구축으로 천만 인프라 구축하기</b><br>
  💫프로젝트 기간: 23.06.30 ~ 23.07
