@@ -1,10 +1,10 @@
-# 🕊️TEAM BORAM🕊️
+# 🦖TEAM BORAM
 <div align="center">
  <img src="https://github.com/gugucone999/finalproject/blob/2f770a1e4515e1192d792dee8fad5e02ada9fb95/img/bonobono.jpeg">
  <br>
 <b>💫단계별 인프라 구축으로 천만 인프라 구축하기</b><br>
  💫팀명 : <br>
- 💫프로젝트 기간: 2023.06.30 ~ 2023.07.<br>
+ 💫프로젝트 기간: 2023.05.30 ~ 2023.07.20<br>
 </div>
 
 ## 🗒️Notion: 
