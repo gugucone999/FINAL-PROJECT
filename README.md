@@ -4,8 +4,7 @@
  프로젝트 기간: 23.06.30 ~ 23.07
 </div>
 
-## 🗒️Notion: [Notion](https://www.notion.so/81db5e3e62be49478e21616d141780a7?v=f314271f88124867956f929affc952a7&pvs=4)
-<br>
+## 🗒️Notion: 
 
 # 🦖TEAM MEMBER
 
@@ -17,7 +16,7 @@
 <br>
 
 <details>
-<summary> 담당 역할 </summary>
+<summary> 📌담당 역할 </summary>
 <div markdown="1">
  
 **백승준**
