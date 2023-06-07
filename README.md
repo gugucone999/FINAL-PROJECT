@@ -2,7 +2,7 @@
 ![header](https://github.com/ONE-OF-WORLD/FINAL-PROJECT/blob/0f29788ed0d54ed806fdabaf71dc9ca9d9366860/img/%EA%B7%B8%EB%A6%BC1.png)
 <div align="center">
  
- 뜨ㅣ어쓰기
+
  <br/>
 <b>💫단계별 인프라 구축으로 천만 인프라 구축하기</b><br>
  💫팀명 : <br>
