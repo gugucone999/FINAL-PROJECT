@@ -1,15 +1,15 @@
 # 🦖TEAM BORAM
 ![header](https://github.com/ONE-OF-WORLD/FINAL-PROJECT/blob/0f29788ed0d54ed806fdabaf71dc9ca9d9366860/img/%EA%B7%B8%EB%A6%BC1.png)
-<div align="center">
- 
 
+<div align="center">
  <br/>
+ <h2> Intro </h2>
 <b>💫단계별 인프라 구축으로 천만 인프라 구축하기</b><br>
  💫팀명 : <br>
  💫프로젝트 기간: 2023.05.30 ~ 2023.07.20<br>
 </div>
 
-## 🗒️Notion : [UNNAME](https://www.notion.so/81db5e3e62be49478e21616d141780a7?v=f314271f88124867956f929affc952a7&pvs=4)
+## 🗒️ TEAM Notion : [NOTION](https://www.notion.so/81db5e3e62be49478e21616d141780a7?v=f314271f88124867956f929affc952a7&pvs=4)
 
 
 
@@ -71,6 +71,14 @@
 <br />
 
 # 📢 STACK
+
+<div align="center">
+<p> ⛓️TOOLS⛓️ </p>
+ <img src="https://img.shields.io/badge/Notion-000000?styl=flat&logo=Notion&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Miro-FFFF00?style=flat&logo=Miro&logoColor=yellow"/>
+</div>
 
 
 ## 🧑‍💻Clone-Coding
