@@ -9,6 +9,10 @@
 
 ## 🗒️Notion: 
 
+## 🗒️
+<b> [FRONT](https://github.com/gugucone999/FINAL-FRONT)  </b> <br>
+<b> [BACK] </b>
+
 # 🦖TEAM MEMBER
 
 |![백승준](./img/bsj.png)|![김호현](./img/khh.png)|![이정훈](./img/ljh.jpg)|![은효경](./img/ehk.png)|
