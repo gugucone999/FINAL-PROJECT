@@ -7,11 +7,11 @@
  💫프로젝트 기간: 2023.05.30 ~ 2023.07.20<br>
 </div>
 
-## 🗒️Notion: 
+## 🗒️Notion : [UNNAME](https://www.notion.so/81db5e3e62be49478e21616d141780a7?v=f314271f88124867956f929affc952a7&pvs=4)
 
-## 🗒️
-<b> [FRONT](https://github.com/gugucone999/FINAL-FRONT)  </b> <br>
-<b> [BACK] </b>
+## 🧑‍💻Clone-Coding
+<b> 💫[FRONT](https://github.com/gugucone999/FINAL-FRONT)  </b> <br>
+<b> 💫[BACK] </b>
 
 # 🦖TEAM MEMBER
 
