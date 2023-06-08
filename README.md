@@ -70,6 +70,14 @@
 
 # 📢 STACK
 
+<div align="center">
+<p> ⛓️TOOLS⛓️ </p>
+ <img src="https://img.shields.io/badge/Notion-000000?styl=flat&logo=Notion&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Github-181717?style=flat&logo=Github&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat&logo=Visual Studio Code&logoColor=white"/>
+ <img src="https://img.shields.io/badge/Miro-FFFF00?style=flat&logo=Miro&logoColor=yellow"/>
+ <img src="https://img.shields.io/badge/Bastion-D9D9DB?styl=flat&logo=Bastion&logoColor=grey"/>
+</div>
 
 ## 🧑‍💻Clone-Coding
 - `FRONT` : 💫[FRONT](https://github.com/ONE-OF-WORLD/FINAL-FRONT)
